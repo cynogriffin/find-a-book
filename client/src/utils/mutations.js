@@ -1,4 +1,4 @@
-import gql from '@apollo/client';
+import { gql } from '@apollo/client';
 
 // to log in a user
 export const LOGIN_USER = gql`

@@ -1,4 +1,4 @@
-import gql from '@apollo/client';
+import { gql } from '@apollo/client';
 
 // query for logged in users
 export const GET_ME = gql`
