@@ -4,7 +4,7 @@
 
 This project was a refactoring of an existing codebase that was using a RESTful API to work with the backend. The goal was to convert the application to use a GraphQL backend. The application itself is a book search application that lets the user search books by title or topic and get the cover images as well as a summary of the books. Once logged in, additional functionality is provided to the user in the form of the ability to save books to a favorites list for future reference.
 
-![screenshot of homepage](link)
+![screenshot of homepage](https://github.com/cynogriffin/find-a-book/blob/main/client/public/assets/homescreen.png)
 
 This project demonstrates the use of recent tech in the form of GraphQL queries and mutations interacting with a modern React front end for a dynamic and seamless user experience. Unfortunately, my biggest challenge was trying to work out a bunch of bugs from a lot of uncompatable versions of software. Since an older version of some of the technologies were used, not all of it played nicely together, and some of the kinks are currently being worked out still. You can view the fully deployed application here: https://morning-thicket-86430.herokuapp.com/.
 
@@ -24,15 +24,15 @@ The application is fully deployed on Heroku, so there is no installation needed.
 
 To use the application, you can just search by topic, title, or author and the app should provide you with a list of books with their covers and a short snippet about each one.
 
-![books about tacos from a search](link)
+![books about tacos from a search](https://github.com/cynogriffin/find-a-book/blob/main/client/public/assets/searched.png)
 
 If you want the additional functionality, you can signup by providing a username,. email address, and password to create and account. After that, additional functionality will open up where you should be able to save books to a favorites list.
 
-![signup page](link)
+![signup page](https://github.com/cynogriffin/find-a-book/blob/main/client/public/assets/signup.png)
 
 If you have an account already, you will just need to login in order to view and modify your favorites.
 
-![login page](link)
+![login page](https://github.com/cynogriffin/find-a-book/blob/main/client/public/assets/login.png)
 
 ## Credits
 ##### [Back to Table of Contents](#table-of-contents)
